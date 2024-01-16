@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RotherG
 - 👀 I’m interested in data science, machine learning and AI.
-- 🌱 I’m currently learning Python, SQL, and data science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SASmodels, Python, SQL, and data science.
+- 💞️ I’m looking to collaborate on SasView
 - 📫 How to reach me: rothergernot@gmail.com
 
 <!---
